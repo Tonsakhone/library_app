@@ -1,0 +1,42 @@
+name: libary_management
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+  firebase_core: ^3.1.1
+  firebase_analytics: ^11.1.0
+  firebase_storage: ^12.1.0
+  flutter_bloc: ^8.1.6
+  cloud_firestore: ^5.0.2
+  image_picker: ^1.1.2
+  flutter_datetime_picker_plus: ^2.2.0
+  intl: ^0.19.0
+  qr_code_scanner: ^1.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/user.png
+    - assets/book-stack.png
+    - assets/for-rent.png
+    - assets/teamwork.png
+    - assets/profile.png
+    - assets/book_pic.jpg

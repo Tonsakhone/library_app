@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "686858463384",
+    "project_id": "libary-management-f6b47",
+    "storage_bucket": "libary-management-f6b47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686858463384:android:5287f26c41685384c588ed",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4qHeX5ickV_VAsX4mINCbZnBjlprJgtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686858463384:android:585f7883a9c6a6a6c588ed",
+        "android_client_info": {
+          "package_name": "com.example.libary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4qHeX5ickV_VAsX4mINCbZnBjlprJgtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686858463384:android:4445f992969ab427c588ed",
+        "android_client_info": {
+          "package_name": "com.libary_management.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4qHeX5ickV_VAsX4mINCbZnBjlprJgtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
